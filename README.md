@@ -1,7 +1,7 @@
 # Hey, I'm Rosa Vázquez! 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/Linkedin-rosavazquezsanchez-0077B5?labelColor=lightgrey" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rosavazquezsanchez"><img src="https://img.shields.io/badge/Linkedin-rosavazquezsanchez-0077B5?labelColor=lightgrey" alt="LinkedIn" /></a>
   <a href="mailto:rosavazquez@usal.es"><img src="https://img.shields.io/badge/Email-rosavazquez@usal.es-D9534F?labelColor=lightgrey" alt="Email" /></a>
 </p>
 
