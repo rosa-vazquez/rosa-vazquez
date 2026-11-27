@@ -23,7 +23,7 @@
 
 ### 🚀 Featured projects
 
-> [!CAUTION]
+> [!IMPORTANT]
 > ### 🔥 [HackFire](https://github.com/rosa-vazquez/hackfire)
 > **HackBarna 2026 · "AI for Wildfire" challenge · Team project, built in 48 h**
 >
