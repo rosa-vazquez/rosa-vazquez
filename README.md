@@ -15,7 +15,8 @@
 
 ### 👩‍💻 About me
 
-- 🏥 I provide **statistical support in clinical research** (IBSAL), analysing which factors influence patient survival, and I'm a **Data Scientist intern at the DemIA Chair (AIR Institute)**, where I'm developing my Bachelor's Thesis on trustworthy AI for estimating Amazonian forest carbon.
+- 🌳 **Data Scientist intern at the DemIA Chair (AIR Institute)**, developing my Bachelor's Thesis on trustworthy AI for estimating Amazonian forest carbon.
+- 🏥 **Statistical support in clinical research** (IBSAL), analysing which factors influence patient survival.
 - 🎤 I presented my work at the **2nd International Symposium on Trustworthy AI applied to the Demographic Challenge** (Nov 2026).
 - 🔥 I built **HackFire** with my team at **HackBarna 2026**: a voice agent that helps residents evacuate before a wildfire.
 - 🌱 Currently learning: geospatial machine learning, uncertainty quantification and web development.
